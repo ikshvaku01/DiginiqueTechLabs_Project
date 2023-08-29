@@ -1,3 +1,6 @@
+## This repository contains the Mern fullstack website
+* Below contains instructions to replicate the project
+
 ### Creating a folder for the project :
 ```shell
 mkdir project project/server
